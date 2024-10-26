@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
-
+#include "2107024_auvro.cpp"
+#include "2107004_tawhid.cpp"
+#include "1807051_mamun.cpp"
 
 int main()
 {
